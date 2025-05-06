@@ -1,0 +1,25 @@
+{
+  "name": "Quantum Token List",
+  "logoURI": "./quantum-icon.png",
+  "keywords": [
+    "quantum",
+    "erc20",
+    "token"
+  ],
+  "timestamp": "2025-05-06T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xEC5A0F34ac6d99C028E7D02F1f27215630C81f24",
+      "name": "Quantum",
+      "symbol": "QTM",
+      "decimals": 18,
+      "logoURI": "./quantum-icon.png"
+    }
+  ]
+}
